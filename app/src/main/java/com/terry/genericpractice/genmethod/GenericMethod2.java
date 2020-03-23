@@ -26,6 +26,6 @@ public class GenericMethod2 {
     //这里只是一个普通方法，只是使用Generic<Number>作为行参而已；
     public  void  show(Generic<Number> object){
 
-    }
+     }
     }
    }

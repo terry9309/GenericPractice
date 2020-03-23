@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.terry.genericpractice.genmethod.GenericMethod;
+import com.terry.genericpractice.genmethod.GenericMethod3;
 import com.terry.genericpractice.needgeneric.NonGeneric;
 
 import java.util.ArrayList;
@@ -24,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
 
         GenericMethod genericMethod = new GenericMethod();
         System.out.println(genericMethod.GenericMethod("12","56","333"));
+
+
 
 
     }
